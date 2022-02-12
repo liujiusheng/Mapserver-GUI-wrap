@@ -48,7 +48,7 @@
 
 3.Geoserver基于JAVA开发，Wicket框架过老，在性能和可维护性方面都较差。
 
-4.官方维护的Mapserver，如：MS4W、DebianGIS、Homebrew等维护较差，文档较差，不便于使用。
+4.官方维护的Mapserver，维护较差，文档较差，不便于使用，如：MS4W、DebianGIS、Homebrew等。
 
 5.商业GIS引擎与业务系统深度集成难，无法满足当前国土空间规划、智慧城市等应用场景的最新要求。仅最Geoserver新版虽开放了大量API，但更新缓慢且有较多BUG。
 
